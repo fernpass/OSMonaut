@@ -4,3 +4,8 @@
 /.settings/
 .gradle/
 build/
+
+# IDEA files #
+.idea
+*.iml
+
